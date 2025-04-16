@@ -1,0 +1,4 @@
+message: "None"
+maximum_msg_size: 512
+window_size: 4
+timeout: 1

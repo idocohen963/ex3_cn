@@ -1,0 +1,4 @@
+message: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend dui et erat convallis feugiat ac in dui."
+maximum_msg_size: 256
+window_size: 1
+timeout: 2
